@@ -1,0 +1,78 @@
+[package]
+name = "llm-apply"
+version = "0.1.0"
+edition = "2021"
+description = "A reliable, standalone primitive for applying LLM-generated code changes"
+license = "MIT"
+repository = "https://github.com/xoanteis/llm-apply"
+keywords = ["llm", "ai", "diff", "patch", "code"]
+categories = ["command-line-utilities", "development-tools"]
+readme = "README.md"
+
+[[bin]]
+name = "llm-apply"
+path = "src/main.rs"
+
+[lib]
+name = "llm_apply"
+path = "src/lib.rs"
+
+[features]
+default = []
+# Enable the HTTP API server (iteration 8)
+server = ["axum", "tokio", "utoipa"]
+# Enable BDD test support
+bdd = []
+
+[dependencies]
+# CLI argument parsing
+clap = { version = "4", features = ["derive"] }
+
+# Diff parsing and application
+# diffy provides a solid base for unified diff handling
+diffy = "0.3"
+
+# String similarity for fuzzy matching (iteration 4)
+strsim = "0.11"
+
+# AST validation via tree-sitter (iteration 5)
+tree-sitter = "0.22"
+tree-sitter-rust = "0.21"
+tree-sitter-python = "0.21"
+tree-sitter-typescript = "0.21"
+tree-sitter-go = "0.21"
+
+# JSON output
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+# Error handling — thiserror for library errors, anyhow for CLI
+thiserror = "1"
+anyhow = "1"
+
+# HTTP server (optional, iteration 8)
+axum = { version = "0.7", optional = true }
+tokio = { version = "1", features = ["full"], optional = true }
+utoipa = { version = "4", features = ["axum_extras"], optional = true }
+
+[dev-dependencies]
+# BDD testing
+cucumber = "0.20"
+tokio = { version = "1", features = ["full"] }
+
+# Property-based testing (iteration 4+)
+proptest = "1"
+
+# Benchmarks
+criterion = { version = "0.5", features = ["html_reports"] }
+
+# Temporary files in tests
+tempfile = "3"
+
+[[bench]]
+name = "apply_bench"
+harness = false
+
+[[test]]
+name = "bdd"
+harness = false  # cucumber manages its own harness

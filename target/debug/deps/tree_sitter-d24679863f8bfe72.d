@@ -1,0 +1,14 @@
+E:\workspace\llm-apply\target\debug\deps\tree_sitter-d24679863f8bfe72.d: C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\lib.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\ffi.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\util.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\./README.md C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\./bindings.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\../src/array.h C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\../src/parser.h E:\workspace\llm-apply\target\debug\build\tree-sitter-06698e6f052da574\out/stdlib-symbols.txt
+
+E:\workspace\llm-apply\target\debug\deps\libtree_sitter-d24679863f8bfe72.rmeta: C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\lib.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\ffi.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\util.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\./README.md C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\./bindings.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\../src/array.h C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\../src/parser.h E:\workspace\llm-apply\target\debug\build\tree-sitter-06698e6f052da574\out/stdlib-symbols.txt
+
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\lib.rs:
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\ffi.rs:
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\util.rs:
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\./README.md:
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\./bindings.rs:
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\../src/array.h:
+C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\binding_rust\../src/parser.h:
+E:\workspace\llm-apply\target\debug\build\tree-sitter-06698e6f052da574\out/stdlib-symbols.txt:
+
+# env-dep:OUT_DIR=E:\\workspace\\llm-apply\\target\\debug\\build\\tree-sitter-06698e6f052da574\\out

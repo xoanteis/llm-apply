@@ -1,8 +1,0 @@
-E:\workspace\llm-apply\target\debug\deps\tree_sitter_python-49ba43edb942d212.d: C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\lib.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../src/node-types.json C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../queries/highlights.scm C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../queries/tags.scm
-
-E:\workspace\llm-apply\target\debug\deps\libtree_sitter_python-49ba43edb942d212.rmeta: C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\lib.rs C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../src/node-types.json C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../queries/highlights.scm C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../queries/tags.scm
-
-C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\lib.rs:
-C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../src/node-types.json:
-C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../queries/highlights.scm:
-C:\Users\Xoan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-python-0.21.0\bindings\rust\../../queries/tags.scm:
